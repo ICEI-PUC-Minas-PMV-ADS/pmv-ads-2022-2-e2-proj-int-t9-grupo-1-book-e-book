@@ -6,7 +6,7 @@
 
 `2022.2`
 
-Plataforma de alugueis de livros para pessoas que querem uma nova utilidade para livros já lidos e criar uma nova rendar alugando esses libros para outras pessoas.
+Plataforma de alugueis de livros para pessoas que querem uma nova utilidade para livros já lidos e criar uma nova rendar alugando esses livros para outras pessoas.
 
 ## Integrantes
 

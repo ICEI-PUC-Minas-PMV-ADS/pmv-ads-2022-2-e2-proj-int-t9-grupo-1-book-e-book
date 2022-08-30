@@ -1,33 +1,28 @@
-# TÍTULO DO PROJETO
+# Book&Book
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas `
 
-`DISCIPLINA`
+`Eixo 2 - Projeto: Desenvolvimento de uma Aplicação interativa`
 
-`SEMESTRE`
+`2022.2`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Plataforma de alugueis de livros para pessoas que querem uma nova utilidade para livros já lidos e criar uma nova rendar alugando esses libros para outras pessoas.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Aleykson Micael
+* Allan
+* Juliane
+* Claudio Mateus
+* Gregorio
 
 ## Orientador
 
-* Nome completo do professor 1
+* Viviane Cristina Dias
 
 ## Instruções de utilização
 
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
-
-Não deixe de informar o link onde a aplicação estiver disponível para acesso (por exemplo: https://adota-pet.herokuapp.com/src/index.html).
-
-Se houver usuário de teste, o login e a senha também deverão ser informados aqui (por exemplo: usuário - admin / senha - admin).
-
-O link e o usuário/senha descritos acima são apenas exemplos de como tais informações deverão ser apresentadas.
 
 # Documentação
 

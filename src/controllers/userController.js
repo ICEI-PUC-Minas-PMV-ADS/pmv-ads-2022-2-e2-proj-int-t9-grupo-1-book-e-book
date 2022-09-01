@@ -1,9 +1,9 @@
 import database from '../config/database.js';
 import { NotFoundError } from '../utils/errors.js';
 
-const getBooks = async (_, response, next) => {
+const getUsers = async (_, response, next) => {
     try {
-        const { rowCount, rows } = await database().query('SELECT * FROM books');
+        const { rowCount, rows } = await database().query('SELECT * FROM users');
         if (rowCount === 0) throw new NotFoundError;
         return response.status(200).json(rows);
     } catch (error) {
@@ -12,5 +12,5 @@ const getBooks = async (_, response, next) => {
 };
 
 export {
-    getBooks
+    getUsers
 }

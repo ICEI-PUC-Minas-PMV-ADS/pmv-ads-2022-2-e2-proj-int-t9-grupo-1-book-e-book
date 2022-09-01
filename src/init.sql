@@ -3,14 +3,15 @@ CREATE TABLE IF NOT EXISTS "users" (
 "name"       VARCHAR(260)      NOT NULL,
 "email"      VARCHAR(260)      NOT NULL    UNIQUE,
 "password"   VARCHAR(260)      NOT NULL,
-PRIMARY KEY ("id")   
+PRIMARY KEY  ("id")   
 );
 
 CREATE TABLE IF NOT EXISTS "books" (
 "id"          SERIAL,
 "name"        VARCHAR(260)      NOT NULL,
+"author"      VARCHAR(260)      NOT NULL,
 "genre"       VARCHAR(260)      NOT NULL,
-PRIMARY KEY ("id")
+PRIMARY KEY   ("id")
 );
 
 CREATE TABLE IF NOT EXISTS "users_books" (

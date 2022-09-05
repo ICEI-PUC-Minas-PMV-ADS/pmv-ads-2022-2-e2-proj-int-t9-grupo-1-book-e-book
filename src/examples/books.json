@@ -1,0 +1,24 @@
+{
+    "books": [
+        {
+            "name": "O Hobbit",
+            "author": "J.R.R Tolkien",
+            "genre": "Fantasia"
+        },
+        {
+            "name": "A garota do lago",
+            "author": "Charlie Donlea",
+            "genre": "Suspense"
+        },
+        {
+            "name": "Os segredos da mente milionária",
+            "author": "T. Harv Eker",
+            "genre": "Auto-ajuda"
+        },
+        {
+            "name": "O poder do hábito",
+            "author": "Charles Duhigg",
+            "genre": "Auto-ajuda"
+        }
+    ]
+}

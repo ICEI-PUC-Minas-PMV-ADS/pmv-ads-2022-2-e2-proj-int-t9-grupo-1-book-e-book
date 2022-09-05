@@ -20,5 +20,8 @@
             "author": "Charles Duhigg",
             "genre": "Auto-ajuda"
         }
+    ],
+    "bookQueries": [
+        {"insertBook": "INSERT INTO books (name, author, genre) VALUES ('O poder do hábito', 'Charles Duhigg', 'Auto-ajuda')"}
     ]
 }

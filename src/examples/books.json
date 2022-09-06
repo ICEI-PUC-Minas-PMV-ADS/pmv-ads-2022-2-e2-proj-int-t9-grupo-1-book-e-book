@@ -1,0 +1,27 @@
+{
+    "books": [
+        {
+            "name": "O Hobbit",
+            "author": "J.R.R Tolkien",
+            "genre": "Fantasia"
+        },
+        {
+            "name": "A garota do lago",
+            "author": "Charlie Donlea",
+            "genre": "Suspense"
+        },
+        {
+            "name": "Os segredos da mente milionária",
+            "author": "T. Harv Eker",
+            "genre": "Auto-ajuda"
+        },
+        {
+            "name": "O poder do hábito",
+            "author": "Charles Duhigg",
+            "genre": "Auto-ajuda"
+        }
+    ],
+    "bookQueries": [
+        {"insertBook": "INSERT INTO books (name, author, genre) VALUES ('O poder do hábito', 'Charles Duhigg', 'Auto-ajuda')"}
+    ]
+}

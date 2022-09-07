@@ -48,7 +48,14 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 | EU COMO... `PERSONA` | QUERO/PRECISO ... `FUNCIONALIDADE` | PARA ... `MOTIVO/VALOR`                |
 | -------------------- | ---------------------------------- | -------------------------------------- |
-| Usuário do sistema   | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+| Ana Silva   | Dispor dos meus livros           | Gerar renda extra               |
+| Ana Silva   | Cadastrar meus livros           | Acompanhar o número de aluguéis               |
+| Amanda Moraes   | Dispor das coleções de livros           | Liberar espaço em casa               |
+| Cris Damasceno   | Ter acesso a livros específicos           | Aperfeiçoar as aulas e estudar para o Doutorado               |
+| Cris Damasceno   | Ter acesso a uma plataforma com títulos e autores variados a um baixo custo           | Economizar tempo e dinheiro               |
+| Cris Damasceno   | Ter acesso a livros sem sair de casa           | Economizar tempo
+| Joana Medeiros   | Ter acesso a mais livros a um baixo custo           | Ler livros variados sem gastar muito               |
+| Joana Medeiros   | Ter uma forma mais prática de acesso a livros           | Economizar tempo em bibliotecas               |
 | Administrador        | Alterar permissões                 | Permitir que possam administrar contas |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.

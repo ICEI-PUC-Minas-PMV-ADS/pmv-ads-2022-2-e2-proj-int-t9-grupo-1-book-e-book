@@ -8,6 +8,8 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
+As personas levantadas durante o processo de entendimento do problema são apresentadas a seguir:
+
 | Ana Silva                                           |                                                                                          |                                                                                                                                                                                              |
 | --------------------------------------------------- | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![image](img/Ana_Silva.jpg)                         | **Idade:** 58 anos - **Ocupação:** Professora de inglês apostentada.                     | **História:** Ana possui muitos livros antigos de quando dava aulas, e deseja dar um novo destino a esses materiais, que podem ajudar outras pessoas e encorajá-las a aprender outro idioma. |

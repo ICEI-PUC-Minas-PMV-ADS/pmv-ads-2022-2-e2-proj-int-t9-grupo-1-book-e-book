@@ -15,6 +15,7 @@ Plataforma de alugueis de livros para pessoas que querem uma nova utilidade para
 - Juliane Campos de Araújo
 - Claudio Mateus
 - Thiago de Medeiros Gregório
+- Jaynne Nunes
 
 ## Orientador
 

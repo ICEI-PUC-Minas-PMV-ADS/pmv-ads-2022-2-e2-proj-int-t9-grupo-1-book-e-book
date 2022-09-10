@@ -10,7 +10,7 @@ Plataforma de alugueis de livros para pessoas que querem uma nova utilidade para
 
 ## Integrantes
 
-- Aleykson Micael
+- Aleykson Micael Sampaio de Andrade
 - Allan
 - Juliane Campos de Araújo
 - Claudio Mateus

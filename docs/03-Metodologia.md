@@ -46,11 +46,11 @@ A imagem a seguir mostra a estruturação dos quadros kanban:
 
 As ferramentas empregadas no projeto são:
 
-- **Github** (Gerenciamento e repósitorio de código)
-- **Visual Studio Code** (Editor de código).
-- **Microsoft Teams** (Software de comunicação)
-- **LucidChart** Diagramas de uso e de base de dados
-- **Git** (Versionamento de código)
+- **Github** - Gerenciamento e repósitorio de código
+- **Visual Studio Code** - Editor de código.
+- **Microsoft Teams** - Software de comunicação
+- **LucidChart** - Diagramas de uso e de base de dados
+- **Git** - Versionamento de código
 
 O Visual Studio Code foi escolhido por possuir diversas utilidades que tornam o desenovolvimento mais acessível, além de ser compatível com diferentes sistemas operacionais e fácil de usar. 
 ...

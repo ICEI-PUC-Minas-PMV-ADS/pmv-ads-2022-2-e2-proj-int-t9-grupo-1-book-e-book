@@ -2,43 +2,59 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foram consolidados na forma de personas e histórias de usuários.
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+As personas levantadas durante o processo de entendimento do problema são apresentadas a seguir:
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+| Ana Silva                                           |                                                                                          |                                                                                                                                                                                              |
+| --------------------------------------------------- | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![image](img/Ana_Silva.jpg)                         | **Idade:** 58 anos - **Ocupação:** Professora de inglês apostentada.                     | **História:** Ana possui muitos livros antigos de quando dava aulas, e deseja dar um novo destino a esses materiais, que podem ajudar outras pessoas e encorajá-las a aprender outro idioma. |
+| Motivações                                          | Frustrações                                                                              |
+| - Gostaria de contribuir com o incetivo à educação; | - Ver adolescentes mais interessados em realidade virtual do que no universo dos livros; |
+| - Gostaria de disponibilizar seus livros;           | - Estante cheia de livros que ninguém mais lê;                                           |
+| - Deseja ter uma renda extra.                       | - Não ter dinheiro para criar uma biblioteca comunitária.                                |
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+| Amanda Moraes                                                                                                    |                                                                  |                                                                                                                                                                                                                           |
+| ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![image](https://user-images.githubusercontent.com/103083123/186744750-3de8a7d3-8f50-4e99-800d-c52bf513f802.png) | **Idade:** 30 anos - **Ocupação:** Empresária do ramo de roupas. | **História:** Amanda possuía o hábito de leitura quando mais nova, contudo administrar sua loja de roupas diminuiu o seu tempo livre para leitura. Ela gostaria de poder diminuir a quantidade de livros parados em casa. |
+| Motivações                                                                                                       | Frustrações                                                      |
+| - Gostaria de dar uma destinação para suas coleções de livros;                                                   | - Não ter tempo para ler;                                        |
+| - Gostaria de expandir a empresa;                                                                                | - Não ter muito espaço de trabalho em casa;                      |
+| - Deseja fazer cursos na área de administração.                                                                  | - Pouco capital para investir na empresa;                        |
+
+| Cris Damasceno                                 |                                                                                                           |                                                                                                                                                                                                                                                                        |
+| ---------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![image](img/Cris_Damasceno.png)               | **Idade:** 46 anos - **Ocupação:** Professora Universitária, servidora pública do Estado de Minas Gerais. | **História:** Divorciada, Mestre na área de educação, é professora de uma universidade pública de sua cidade. Divide o tempo entre o trabalho e os cuidados com os filhos e a casa. A leitura faz parte da sua rotina de trabalho, mas também gosta de ler por prazer. |
+| Motivações                                     | Frustrações                                                                                               |
+| - Sonha em ter uma casa grande para a família; | - Não ter muito tempo para ler;                                                                           |
+| - Terminar o doutorado;                        | - Não ter muito tempo para lazer;                                                                         |
+| - Melhorar o currículo e ganhar mais.          | - Não poder comprar livros de autores internacionais que são importantes para o trabalho pelo alto custo. |
+
+| Joana Medeiros                                                           |                                                                                                |                                                                                                                                                                             |
+| ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![image](img/Joana_Medeiros.png)                                         | **Idade:** 42 anos - **Ocupação:** Arquiteta e Urbanista, servidora pública de uma prefeitura. | **História:** Casada, trabalha como Arquiteta na sua cidade. Divide o seu tempo entre o trabalho, a companhia do marido, o acompanhamento de obra, estudo e demais tarefas. |
+| Motivações                                                               | Frustrações                                                                                    |
+| - Sonha em ter uma casa, conforme projeto idealizado;                    | - Não ter tempo para ler;                                                                      |
+| - Gostaria de ganhar mais para viajar e conhecer o mundo;                | - Não poder comprar todos os livros que gostaria;                                              |
+| - Gostaria de ter mais tempo para focar nos estudos e melhorar o inglês. | - Ter pouco tempo para estudar e se especializar.                                              |
 
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+| EU COMO... `PERSONA` | QUERO/PRECISO ... `FUNCIONALIDADE` | PARA ... `MOTIVO/VALOR`                |
+| -------------------- | ---------------------------------- | -------------------------------------- |
+| Ana Silva   | Dispor dos meus livros           | Gerar renda extra               |
+| Ana Silva   | Cadastrar meus livros           | Acompanhar o número de aluguéis               |
+| Amanda Moraes   | Dispor das coleções de livros           | Liberar espaço em casa               |
+| Cris Damasceno   | Ter acesso a livros específicos           | Aperfeiçoar as aulas e estudar para o Doutorado               |
+| Cris Damasceno   | Ter acesso a uma plataforma com títulos e autores variados a um baixo custo           | Economizar tempo e dinheiro               |
+| Cris Damasceno   | Ter acesso a livros sem sair de casa           | Economizar tempo
+| Joana Medeiros   | Ter acesso a mais livros a um baixo custo           | Ler livros variados sem gastar muito               |
+| Joana Medeiros   | Ter uma forma mais prática de acesso a livros           | Economizar tempo em bibliotecas               |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
 
@@ -46,58 +62,32 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+| ID     | Descrição do Requisito                                     | Prioridade |
+| ------ | ---------------------------------------------------------- | ---------- |
+| RF-001 | Permitir que o usuário crie uma conta                      | ALTA       |
+| RF-002 | Permitir que o usuário realize login na conta criada       | ALTA       |
+| RF-003 | Permitir que o usuário disponibilize um livro para aluguel | ALTA       |
+| RF-004 | Permitir que o usuário alugue um livro disponível          | ALTA       |
+| RF-005 | Exibir os livros disponíveis para aluguel                  | MÉDIA      |
+| RF-006 | Filtrar os livros disponíveis por gênero                   | MÉDIA      |
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+| ID      | Descrição do Requisito                                                                              | Prioridade |
+| ------- | --------------------------------------------------------------------------------------------------- | ---------- |
+| RNF-001 | O site deverá ser responsivo permitindo a visualização em um celular de forma adequada              | MÉDIA      |
+| RNF-002 | O site deve ter bom nível de contraste entre os elementos da tela em conformidade                   | MÉDIA      |
+| RNF-003 | O site deve apresentar as informações de forma visual e acessível, através de uma interface simples | MÉDIA      |
 
 ## Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+| ID  | Restrição                                             |
+| --- | ----------------------------------------------------- |
+| 01  | O projeto deverá ser entregue até o final do semestre |
+| 02  | A equipe não pode subcontratar o desenvolvimento do trabalho.        |
 
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 ## Diagrama de Casos de Uso
-
-O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
-
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
-
-> **Links Úteis**:
-> - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
-> - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
+![image](https://user-images.githubusercontent.com/103083123/189238767-df08b37c-314d-4556-ada6-5098438ca720.png)

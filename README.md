@@ -10,15 +10,16 @@ Plataforma de alugueis de livros para pessoas que querem uma nova utilidade para
 
 ## Integrantes
 
-* Aleykson Micael
-* Allan
-* Juliane
-* Claudio Mateus
-* Gregorio
+- Aleykson Micael Sampaio de Andrade
+- Allan
+- Juliane Campos de Araújo
+- Claudio Mateus
+- Thiago de Medeiros Gregório
+- Jaynne Nunes
 
 ## Orientador
 
-* Viviane Cristina Dias
+- Viviane Cristina Dias
 
 ## Instruções de utilização
 

@@ -13,13 +13,18 @@ Em contrapartida, muitas pessoas possuem livros em casa e que, após lidos, não
 Diante disso, a barreira financeira pode ser quebrada com a promoção de um intercâmbio entre as pessoas que têm interesse no empréstimo de seus exemplares, a um preço justo, e aquelas que têm dificuldade na aquisição, promovendo uma iniciativa social, econômica e ecológica.
 
 ## Problema
+
 Conforme exposto, o problema que se busca resolver com este projeto é a ampliação do acesso ao conhecimento e aprendizado através dos livros, a preços acessíveis, promovendo o incentivo à leitura e à formação de novos leitores, bem como a geração de renda extra e a circulação de livros sem uso.
 
 ## Objetivos
 
 O objetivo geral deste trabalho é a criação de um site para cadastramento e locação de livros de vários gêneros, autores nacionais e estrangeiros, com ferramentas de fácil utilização.
 
-Como objetivos específicos, podemos ressaltar: ● Fornecer funcionalidades que permitam os cadastramentos dos usuários e dos livros para locação; ● Fornecer funcionalidade que permita a busca pelos gêneros literários; ● Fornecer informações/funcionalidades sobre as formas de pagamento e entrega.
+Como objetivos específicos, podemos ressaltar:
+
+- Fornecer funcionalidades que permitam os cadastramentos dos usuários e dos livros para locação;
+- Fornecer funcionalidade que permita a busca pelos gêneros literários;
+- Fornecer informações/funcionalidades sobre as formas de pagamento e entrega.
 
 ## Justificativa
 
@@ -27,7 +32,7 @@ De acordo com a Pesquisa Retratos da Leitura no Brasil, trinta por cento dos bra
 
 Adicionalmente, essa atividade tão fundamental tem sido cada vez mais deixada de lado, sendo substituída por hábitos ligados ao universo virtual, como uso da Internet, WhatsApp, Facebook, Twitter ou Instagram.
 
-Neste viés é necessário criar estratégias e ferramentas que facilita o acesso a livros visando o custo benefício, então usar de forma digital o aluguel de livros de forma segura, ágil e barata é essencial para alavancar o desejo pela leitura.
+Neste viés é necessário criar estratégias e ferramentas que facilitem o acesso a livros visando o custo benefício, então, usar de forma digital o aluguel de livros, de maneira segura, ágil e barata é essencial para alavancar o desejo pela leitura.
 
 ## Público-Alvo
 

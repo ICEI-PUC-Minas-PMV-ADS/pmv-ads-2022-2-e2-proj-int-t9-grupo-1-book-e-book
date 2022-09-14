@@ -31,7 +31,7 @@ const registerUser = async (request, response, next) => {
 const loginUser = async (request, response, next) => {
   try {
     const { email, password } = request.body;
-    const { rows, rowCount } = await database().query(
+    let { rows, rowCount } = await database().query(
       "SELECT password FROM users WHERE email=$1",
       [email]
     );
@@ -40,9 +40,13 @@ const loginUser = async (request, response, next) => {
     const userPassword = rows[0].password;
     if (!(await bcrypt.compare(password, userPassword))) {
         throw new BadRequestError('Senha incorreta')
-    }
+    };
 
-    //TODO: retornar jwt
+    ({ rows, rowCount } = await database().query(
+      "SELECT name FROM users WHERE email=$1",
+      [email]
+    ));
+    
     return response.status(200).json(rows);
   } catch (error) {
     next(error);

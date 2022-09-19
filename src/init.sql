@@ -11,6 +11,7 @@ CREATE TABLE IF NOT EXISTS "books" (
 "name"        VARCHAR(260)      NOT NULL,
 "author"      VARCHAR(260)      NOT NULL,
 "genre"       VARCHAR(260)      NOT NULL,
+"rented_by"   INT               DEFAULT 0,
 PRIMARY KEY   ("id")
 );
 

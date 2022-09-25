@@ -20,6 +20,8 @@ O diagrama de fluxo foi desenvolvido com “boxes” que possuem internamente a 
 
 ## Wireframes
 
+Conforme o fluxo de telas apresentado anteriormente, os wireframes de cada uma das telas a serem desenvolvidas no sistema são disponíveis no link https://www.figma.com/file/1bVtx5XQz0wwZLOsEAKy6l/Wireframes-Book%26Book?node-id=0%3A1 e apresentadas a seguir:
+
 ![Exemplo de Wireframe](img/wireframe-example.png)
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.

@@ -13,7 +13,7 @@ O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema 
 
 O diagrama de fluxo foi desenvolvido com “boxes” que possuem internamente a indicação dos principais elementos de interface - tais como menus e acessos - e funcionalidades, tais como logar, cadastrar, alugar - e a conexão entre esses boxes a partir do processo de interação.
 
-![Exemplo de Diagrama de Fluxo](img/diagrama_fluxo.png)
+![Exemplo de Diagrama de Fluxo](img/diagrama_fluxo_atual.png)
 
 > **Links Úteis**:
 > - [Fluxograma online: seis sites para fazer gráfico sem instalar nada | Produtividade | TechTudo](https://www.techtudo.com.br/listas/2019/03/fluxograma-online-seis-sites-para-fazer-grafico-sem-instalar-nada.ghtml)

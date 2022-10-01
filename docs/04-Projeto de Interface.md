@@ -22,15 +22,8 @@ O diagrama de fluxo foi desenvolvido com “boxes” que possuem internamente a 
 
 Conforme o fluxo de telas apresentado anteriormente, os wireframes de cada uma das telas a serem desenvolvidas no sistema são disponíveis no link https://www.figma.com/file/1bVtx5XQz0wwZLOsEAKy6l/Wireframes-Book%26Book?node-id=0%3A1 e apresentadas a seguir:
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+![image](https://user-images.githubusercontent.com/103083123/193415905-da15e953-0eeb-4ca0-a1e2-c04d71249566.png)
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+![image](https://user-images.githubusercontent.com/103083123/193415913-eb531bde-5bbf-48ea-a9b1-35cddcbe65b0.png)
+
+![image](https://user-images.githubusercontent.com/103083123/193415931-76adce84-bbb0-43f6-855b-3ee2e0966422.png)

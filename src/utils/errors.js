@@ -22,17 +22,8 @@ class NotFoundError extends GeneralError {
     }
 };
 
-class uploadError extends GeneralError {
-    constructor (message) {
-        super();
-        this.message = message;
-        this.status = 500;
-    }
-}
-
 export {
     GeneralError,
     BadRequestError,
     NotFoundError,
-    uploadError
 }

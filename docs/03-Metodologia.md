@@ -28,7 +28,14 @@ definição do processo de desenvolvimento.
 
 ### Divisão de Papéis
 
-...
+
+    Aleykson Micael Sampaio de Andrade - Desenvolvimento 
+    Allan - Design
+    Juliane Campos de Araújo - Product Owner
+    Claudio Mateus - Product Manager
+    Thiago de Medeiros Gregório - Product Manager
+    Jaynne Nunes - Desenvolvimento
+
 
 ### Processo
 

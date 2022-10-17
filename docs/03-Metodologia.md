@@ -40,6 +40,8 @@ definição do processo de desenvolvimento.
 ### Processo
 
 O Gerenciamento é feito atráves da funcionalidade Projects do [Github](https://docs.github.com/pt/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards), onde realizamos a divisão de tarefas entre os membros do grupo e planejamos o desenvolvimento do projeto como um todo.
+![image](https://user-images.githubusercontent.com/103083123/196303181-2b5091ad-0851-47ef-927d-a71f280b1f9b.png)
+
 
 - `Product Backlog`: Contém as informações sobre o projeto de maneira geral e sobre os itens a serem executados.
 - `Sprint Backlog`: Contém o detalhamento das tarefas/itens contidos no Product Backlog a serem entregues pela equipe do projeto. 

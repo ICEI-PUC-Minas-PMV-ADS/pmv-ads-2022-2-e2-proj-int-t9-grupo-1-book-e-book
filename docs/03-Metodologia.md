@@ -57,4 +57,3 @@ As ferramentas empregadas no projeto são:
 - **Git** - Versionamento de código
 
 O Visual Studio Code foi escolhido por possuir diversas utilidades que tornam o desenovolvimento mais acessível, além de ser compatível com diferentes sistemas operacionais e fácil de usar. 
-...

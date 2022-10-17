@@ -87,6 +87,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 | --- | ----------------------------------------------------- |
 | 01  | O projeto deverá ser entregue até o final do semestre |
 | 02  | A equipe não pode subcontratar o desenvolvimento do trabalho.        |
+| 03  | O projeto deve usar um único banco de dados.        |
 
 
 ## Diagrama de Casos de Uso

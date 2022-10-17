@@ -4,9 +4,10 @@
 
 Layout padrão da aplicação que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+![image](https://user-images.githubusercontent.com/103083123/196302896-877ddd26-b3e4-4ccc-a7d2-1b47da1c37ae.png)
+
+![image](https://user-images.githubusercontent.com/103083123/196302910-c233c959-938f-4c18-9fa4-b4b62e2634c8.png)
+
+![image](https://user-images.githubusercontent.com/103083123/196302928-e08b7c81-20ed-47b0-a3f6-6d94984803af.png)
+
+![image](https://user-images.githubusercontent.com/103083123/196302943-149d3ff8-3470-436f-80f5-a5928d9967b9.png)

@@ -78,6 +78,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | RNF-001 | O site deverá ser responsivo permitindo a visualização em um celular de forma adequada              | MÉDIA      |
 | RNF-002 | O site deve ter bom nível de contraste entre os elementos da tela em conformidade                   | MÉDIA      |
 | RNF-003 | O site deve apresentar as informações de forma visual e acessível, através de uma interface simples | MÉDIA      |
+| RNF-004 | O site deve estar disponível para acesso a qualquer horário do dia | MÉDIA      |
+| RNF-005 | O site deve responder às ações do usuário de forma rápida | MÉDIA      |
+| RNF-006 | O site deve impossibilitar que as senhas dos usuários sejam visíveis a atores maliciosos | MÉDIA      |
 
 ## Restrições
 

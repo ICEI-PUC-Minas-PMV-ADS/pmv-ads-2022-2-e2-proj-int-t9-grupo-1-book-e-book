@@ -24,7 +24,6 @@ Como objetivos específicos, podemos ressaltar:
 
 - Fornecer funcionalidades que permitam os cadastramentos dos usuários e dos livros para locação;
 - Fornecer funcionalidade que permita a busca pelos gêneros literários;
-- Fornecer informações/funcionalidades sobre as formas de pagamento e entrega.
 
 ## Justificativa
 

@@ -2,7 +2,9 @@
 
 A leitura é a principal ferramenta de aprendizagem para uma educação de qualidade e uma prática importante no desenvolvimento do raciocínio, do senso crítico, da capacidade de interpretação, da criatividade e da comunicação. Além de ser fundamental para uma capacitação profissional, ela é ainda um agente transformador, na medida que cria cidadãos conscientes do seu papel na sociedade.
 
-Entretanto, no Brasil, segundo a Pesquisa Retratos da Leitura no Brasil, realizada pelo Instituto Pró-Livro e Itaú Cultural, apenas 52% da população são leitores, sendo que os dados de 2019 informam que a média de leitura anual é de 4,95 livros.
+Entretanto, no Brasil, segundo a Pesquisa Retratos da Leitura no Brasil, apenas 52% da população são leitores (INSTITUTO PRÓ-LIVRO E ITAÚ CULTURAL, 2020, p. 20), sendo que os dados de 2019 informam que a média de leitura anual é de 4,95 livros.
+
+Entre os leitores de literatura, 38% leram o último livro por gosto (INSTITUTO PRÓ-LIVRO E ITAÚ CULTURAL, 2020, p. 44), sendo um dado importante para servir de parâmetro na busca de alternativas que proporcionem o crescimento desse percentual.
 
 A pesquisa aponta ainda que 66% das pessoas entrevistadas não tiveram incentivo à leitura durante suas trajetórias de vida e que, entre a parcela de não-leitores, a maioria afirma não ter tempo, preferir outra atividade ou não ter paciência para ler.
 

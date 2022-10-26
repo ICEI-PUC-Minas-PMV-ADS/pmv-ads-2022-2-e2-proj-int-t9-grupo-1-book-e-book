@@ -1,0 +1,8 @@
+body {
+  background-color: #C9C9C9;
+}
+
+.header {
+  display: flex;
+  justify-content: center
+}

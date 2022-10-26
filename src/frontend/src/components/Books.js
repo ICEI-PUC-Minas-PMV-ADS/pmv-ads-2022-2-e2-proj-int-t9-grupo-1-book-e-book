@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import '../styles.css'
 
 export default function Books() {
   const [bookArray, setbookArray] = useState();

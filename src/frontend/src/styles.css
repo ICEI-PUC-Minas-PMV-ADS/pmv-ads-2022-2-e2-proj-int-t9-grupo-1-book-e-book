@@ -1,8 +1,51 @@
 body {
   background-color: #C9C9C9;
+  font-size: 25px;
 }
 
 .header {
   display: flex;
   justify-content: center
+}
+
+.div-wrapper {
+  margin-top: 50px;
+  display:flex;
+  justify-content: center;
+  gap: 100px;
+}
+
+.books-column {
+  width: 600px;
+}
+
+.title-book-section {
+  text-align:center;
+  font-weight: bold;
+  background-color: #9DA9A0;
+  padding: 30px;
+  border-radius: 20px;
+  width: 100%;
+  display: inline-block;
+  margin-bottom: 30px
+}
+
+.book-row {
+  text-align:center;
+  background-color: white;
+  border-radius: 20px;
+  padding: 30px;
+  margin-top: 20px;
+
+}
+
+li {
+  list-style-type: none;
+}
+
+.list-genres {
+  background-color: white;
+  line-height: 2;
+  padding: 50px;
+  border-radius: 20px;
 }

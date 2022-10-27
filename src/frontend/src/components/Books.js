@@ -40,6 +40,7 @@ export default function Books() {
                   <span style={{ fontWeight: "bold" }}>{book.name} </span>
                   <span>{book.author} </span>
                   <span>{book.genre}</span>
+                  <span>{book.rentedBy !== 0 ? 'indisponível' : 'Alugar'}</span>
                 </div>
               );
             })}

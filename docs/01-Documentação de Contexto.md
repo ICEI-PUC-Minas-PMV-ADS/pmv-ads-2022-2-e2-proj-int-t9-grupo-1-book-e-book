@@ -8,7 +8,7 @@ Entre os leitores de literatura, 38% leram o último livro por gosto (INSTITUTO 
 
 A pesquisa aponta ainda que 66% das pessoas entrevistadas não tiveram incentivo à leitura durante suas trajetórias de vida e que, entre a parcela de não-leitores, a maioria afirma não ter tempo, preferir outra atividade ou não ter paciência para ler.
 
-Além dessa barreira, ainda existe o custo da aquisição de um livro, o que sedimenta ainda mais o desinteresse da maior parte da população cuja preocupação principal está nos itens de primeira necessidade.
+Além dessa barreira, ainda existe o custo da aquisição de um livro, o que sedimenta ainda mais o desinteresse da maior parte da população cuja preocupação principal está nos itens de primeira necessidade, mesmo com essas dificuldades o interresse da população em adiquirir livros é bastante notável conforme a pesquisa feita em 2022 “Painel do Varejo de Livros no Brasil” ( Nielsen bookscan, 2022), onde cerca de 10 milhões de livros foram vendidos a mais que o mesmo periodo em 2021, mesmo os leitores reclamando da notável variação de preços onde chegam até 10% acrecidos em seus valores no intervalo de 1 ano.
 
 Em contrapartida, muitas pessoas possuem livros em casa e que, após lidos, não têm uma destinação a não ser ocupar espaço nas estantes e armários.
 

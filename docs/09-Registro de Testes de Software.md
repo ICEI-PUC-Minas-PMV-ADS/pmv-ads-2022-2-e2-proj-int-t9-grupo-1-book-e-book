@@ -7,6 +7,8 @@ Para cada caso de teste definido no Plano de Testes de Software, realize o regis
 
 ![image](https://user-images.githubusercontent.com/103083123/198420063-27ae7f3a-115f-498f-988a-f09bad23cc82.png)
 
+![image](https://user-images.githubusercontent.com/103083123/198886198-11a539b3-fd2f-4a01-bfc0-1741df0406ed.png)
+
 
 ## Avaliação
 

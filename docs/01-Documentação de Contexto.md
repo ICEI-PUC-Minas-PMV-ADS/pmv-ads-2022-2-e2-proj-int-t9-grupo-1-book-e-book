@@ -37,4 +37,4 @@ Neste viés é necessário criar estratégias e ferramentas que facilitem o aces
 
 ## Público-Alvo
 
-Estabeleceu-se como público-alvo desta solução crianças, jovens, adultos ou empresas com a mesma finalidade.
+Estabeleceu-se como público-alvo desta solução: crianças, jovens, adultos, empresas ou interessados pela área.

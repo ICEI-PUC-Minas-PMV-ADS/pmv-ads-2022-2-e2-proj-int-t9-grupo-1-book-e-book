@@ -8,3 +8,5 @@
 **CT-02 – Efetuar cadastro**
 ![image](https://user-images.githubusercontent.com/103083123/198889219-ff26673a-d090-4c61-8b47-68e9e96ae16c.png)
 
+**CT-03 – Efetuar login**
+Funcionalidade em desenvolvimento.

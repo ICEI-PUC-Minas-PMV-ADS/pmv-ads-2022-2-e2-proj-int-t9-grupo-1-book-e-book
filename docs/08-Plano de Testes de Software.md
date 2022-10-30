@@ -18,7 +18,6 @@ Não deixe de enumerar os casos de teste de forma sequencial e de garantir que o
 | Objetivo do Teste 	| Verificar se o usuário consegue cadastrar uma conta. |
 | Passos 	| - Acessar o navegador <br> - Entrar no site (http://localhost:3000) <br> - Preencher as informações do formulário de cadastro <br> - Enviar o formulário |
 |Critério de Êxito | - O cadastro foi realizado com sucesso. |
-
 |  	|  	|
 | Caso de Teste 	| CT-02 – Efetuar login	|
 |Requisito Associado | RF-001 	Permitir que o usuário acesse sua conta |

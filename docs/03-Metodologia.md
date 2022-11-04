@@ -30,7 +30,7 @@ definição do processo de desenvolvimento.
 
 
     Aleykson Micael Sampaio de Andrade - Desenvolvimento 
-    Allan - Design
+    Alan Mendes - Design UI/UX
     Juliane Campos de Araújo - Product Owner
     Claudio Mateus - Product Manager
     Thiago de Medeiros Gregório - Product Manager

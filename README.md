@@ -11,7 +11,7 @@ Plataforma de alugueis de livros para pessoas que querem uma nova utilidade para
 ## Integrantes
 
 - Aleykson Micael Sampaio de Andrade
-- Allan
+- Alan Filipe Lopes Mendes
 - Juliane Campos de Araújo
 - Claudio Mateus
 - Thiago de Medeiros Gregório

@@ -12,7 +12,7 @@ export default function Login() {
   let handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      // console.log(name, email, password)
+      console.log(name, email, password)
       let res = await fetch("http://localhost:4000/users/register", {
         method: "POST",
         body: JSON.stringify({

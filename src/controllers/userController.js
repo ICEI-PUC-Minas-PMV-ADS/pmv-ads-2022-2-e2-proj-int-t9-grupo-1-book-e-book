@@ -16,6 +16,7 @@ class User {
   static registerUser = async (request, response, next) => {
     try {
       const { name, email, password } = request.body;
+      console.log(request.body)
       const salt = await bcrypt.genSalt(10);
       const hashedPassword = await bcrypt.hash(password, salt);
   
@@ -25,6 +26,7 @@ class User {
       );
       return response.sendStatus(201);
     } catch (error) {
+      console.log(error)
       next(error);
     }
   };

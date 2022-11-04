@@ -1,16 +1,40 @@
 body {
-  background-color: #C9C9C9;
+  background-color: #c9c9c9;
   font-size: 25px;
+}
+
+.div-login {
+  background-color: #9da9a0;
+  display: flex;
+  justify-content: center;
+  gap: 20vw;
+  padding-bottom: 100px;
+}
+
+input {
+  border: 0;
+  outline: 0;
+  font-size: 25px;
+  border-radius: 10px;
+}
+input:focus {
+  outline: none !important;
+}
+
+.div-login-inside {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
 }
 
 .header {
   display: flex;
-  justify-content: center
+  justify-content: center;
 }
 
 .div-wrapper {
   margin-top: 50px;
-  display:flex;
+  display: flex;
   justify-content: center;
   gap: 100px;
 }
@@ -20,23 +44,22 @@ body {
 }
 
 .title-book-section {
-  text-align:center;
+  text-align: center;
   font-weight: bold;
-  background-color: #9DA9A0;
+  background-color: #9da9a0;
   padding: 30px;
   border-radius: 20px;
   width: 100%;
   display: inline-block;
-  margin-bottom: 30px
+  margin-bottom: 30px;
 }
 
 .book-row {
-  text-align:center;
+  text-align: center;
   background-color: white;
   border-radius: 20px;
   padding: 30px;
   margin-top: 20px;
-
 }
 
 li {

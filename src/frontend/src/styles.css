@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Inria+Sans&display=swap');
 body {
   background-color: #c9c9c9;
   font-size: 25px;
+  font-family: 'Inria Sans', sans-serif;
 }
 
 .div-login {
@@ -71,4 +73,14 @@ li {
   line-height: 2;
   padding: 50px;
   border-radius: 20px;
+}
+
+.indisponivel {
+  color: #707070
+}
+
+.alugar {
+  font-weight: 700;
+  cursor: pointer;
+  color: #654C4F;
 }

@@ -59,7 +59,7 @@ export default function Books() {
                   <span style={{ fontWeight: "bold" }}>{book.name} </span>
                   <span>{book.author} </span>
                   <span>{book.genre}</span>
-                  <span>{book.rented_by !== 0 ? ' indisponível' : <span onClick={() => rentBook(book.id)}> Alugar</span>}</span>
+                  <span>{book.rented_by !== 0 ? <span className="indisponivel"> indisponível</span> : <span className="alugar" onClick={() => rentBook(book.id)}> Alugar</span>}</span>
                 </div>
               );
             })}

@@ -46,7 +46,6 @@ export default function Login() {
         }),
       });
       if (res.status === 201 || res.status === 201) {
-        setName("");
         setEmail("");
         setPassword("");
         navigate("/books");

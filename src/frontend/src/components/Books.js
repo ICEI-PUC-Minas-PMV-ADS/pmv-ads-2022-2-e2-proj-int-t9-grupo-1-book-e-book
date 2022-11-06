@@ -10,6 +10,25 @@ export default function Books() {
       .then((bookArray) => setbookArray(bookArray));
   }, []);
 
+  const rentBook = async (bookId) => {
+    try {
+      let res = await fetch("http://localhost:4000/books/rent", {
+        method: "POST",
+        body: JSON.stringify({
+          bookId,
+          userId: 1
+        }),
+      });
+      if (res.status === 201 || res.status === 201) {
+        window.location.reload()
+      } else {
+        alert('Ocorreu um erro no cadastro!')
+      }
+    } catch (err) {
+      console.log(err);
+    }
+  }
+
   return (
     <main className="container p-5 mt-3 flex">
       <div className="div-wrapper">
@@ -40,7 +59,7 @@ export default function Books() {
                   <span style={{ fontWeight: "bold" }}>{book.name} </span>
                   <span>{book.author} </span>
                   <span>{book.genre}</span>
-                  <span>{book.rentedBy !== 0 ? 'indisponível' : 'Alugar'}</span>
+                  <span>{book.rented_by !== 0 ? ' indisponível' : <span onClick={() => rentBook(book.id)}> Alugar</span>}</span>
                 </div>
               );
             })}

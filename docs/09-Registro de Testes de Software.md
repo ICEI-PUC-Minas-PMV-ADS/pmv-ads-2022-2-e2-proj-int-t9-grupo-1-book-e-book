@@ -10,3 +10,6 @@
 
 **CT-03 – Efetuar login**
 Funcionalidade em desenvolvimento.
+
+**CT-04 - Alugar livro**
+![image](https://user-images.githubusercontent.com/103083123/200675181-88bbacc8-e278-48e3-9ff0-305a0f9e687a.png)

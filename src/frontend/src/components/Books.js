@@ -3,14 +3,13 @@ import "../styles.css";
 
 export default function Books() {
   const [bookArray, setbookArray] = useState();
-
   useEffect(() => {
     fetch(`http://localhost:4000/books`)
       .then((res) => res.json())
       .then((bookArray) => setbookArray(bookArray));
   }, []);
 
-  const rentBook = async (bookId) => {
+  const rentBook = async (bookId, bookName) => {
     try {
       let res = await fetch("http://localhost:4000/books/rent", {
         method: "POST",
@@ -20,6 +19,7 @@ export default function Books() {
         }),
       });
       if (res.status === 201 || res.status === 201) {
+        alert(`Parabéns, você acaba de alugar o livro: ${bookName}`)
         window.location.reload()
       } else {
         alert('Ocorreu um erro no cadastro!')
@@ -59,7 +59,7 @@ export default function Books() {
                   <span style={{ fontWeight: "bold" }}>{book.name} </span>
                   <span>{book.author} </span>
                   <span>{book.genre}</span>
-                  <span>{book.rented_by !== 0 ? <span className="indisponivel"> indisponível</span> : <span className="alugar" onClick={() => rentBook(book.id)}> Alugar</span>}</span>
+                  <span>{book.rented_by !== 0 ? <span className="indisponivel"> indisponível</span> : <span className="alugar" onClick={() => rentBook(book.id, book.name)}> Alugar</span>}</span>
                 </div>
               );
             })}

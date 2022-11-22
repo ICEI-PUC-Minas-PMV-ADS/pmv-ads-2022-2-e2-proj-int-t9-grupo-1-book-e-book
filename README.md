@@ -32,7 +32,7 @@ Primeiro instale as dependências
 npm install
 ```
 
-após isso, rode o comando:
+após isso, rode o comando, **na raíz do projeto**:
 ```
 npm run start-all
 ```

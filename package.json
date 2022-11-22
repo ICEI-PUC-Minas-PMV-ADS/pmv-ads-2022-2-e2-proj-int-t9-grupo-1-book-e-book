@@ -5,7 +5,8 @@
   "main": "src/server.js",
   "type": "module",
   "scripts": {
-    "start": "node -r dotenv/config . && node src/server.js",
+    "postinstall": "node -r dotenv/config . && node src/server.js",
+    "start": "cd src/frontend && npm i && npm run start && cd ../..",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

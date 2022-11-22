@@ -7,12 +7,15 @@ export default function Login() {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
 
+  // const [emailLogin, setEmailLogin] = useState("");
+  // const [password, setPassword] = useState("");
+
+
   const navigate = useNavigate();
 
   const handleSubmitLogin = async (e) => {
     e.preventDefault();
     try {
-      console.log(name, email, password);
       let res = await fetch("http://localhost:4000/users/login", {
         method: "POST",
         body: JSON.stringify({
@@ -20,7 +23,7 @@ export default function Login() {
           password: password,
         }),
       });
-      if (res.status === 201 || res.status === 201) {
+      if (res.status === 201 || res.status === 200) {
         setName("");
         setEmail("");
         setPassword("");
@@ -36,7 +39,6 @@ export default function Login() {
   const handleSubmitRegister = async (e) => {
     e.preventDefault();
     try {
-      console.log(name, email, password);
       let res = await fetch("http://localhost:4000/users/register", {
         method: "POST",
         body: JSON.stringify({
@@ -45,7 +47,7 @@ export default function Login() {
           password: password,
         }),
       });
-      if (res.status === 201 || res.status === 201) {
+      if (res.status === 201 || res.status === 200) {
         setEmail("");
         setPassword("");
         navigate("/books");

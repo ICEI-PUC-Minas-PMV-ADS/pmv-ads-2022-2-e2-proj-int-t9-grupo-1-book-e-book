@@ -5,8 +5,8 @@
   "main": "src/server.js",
   "type": "module",
   "scripts": {
-    "postinstall": "node -r dotenv/config . && node src/server.js",
-    "start": "cd src/frontend && npm i && npm run start",
+    "start-all": "concurrently \"node -r dotenv/config . && node src/server.js\" \"npm run start-front\"",
+    "start-front": "cd src/frontend && npm i && npm run start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -20,5 +20,8 @@
     "express": "^4.18.2",
     "pg": "^8.8.0",
     "react-router-dom": "^6.4.2"
+  },
+  "devDependencies": {
+    "concurrently": "^7.6.0"
   }
 }

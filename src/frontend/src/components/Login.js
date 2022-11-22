@@ -103,7 +103,7 @@ export default function Login() {
           <br />
           <label for="lname">Senha</label>
           <input
-            type="text"
+            type="password"
             id="lname"
             name="password"
             onChange={(e) => setPassword(e.target.value)}

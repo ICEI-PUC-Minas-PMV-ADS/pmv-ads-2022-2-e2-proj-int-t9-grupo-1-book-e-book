@@ -9,7 +9,7 @@
 ![image](https://user-images.githubusercontent.com/103083123/198889219-ff26673a-d090-4c61-8b47-68e9e96ae16c.png)
 
 **CT-03 – Efetuar login**
-Funcionalidade em desenvolvimento.
+![image](https://user-images.githubusercontent.com/103083123/203196374-3bc07664-26c0-4354-bf6b-8873a677da8c.png)
 
 **CT-04 - Alugar livro**
 ![image](https://user-images.githubusercontent.com/103083123/200675181-88bbacc8-e278-48e3-9ff0-305a0f9e687a.png)

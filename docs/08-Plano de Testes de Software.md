@@ -19,8 +19,20 @@ Não deixe de enumerar os casos de teste de forma sequencial e de garantir que o
 | Passos 	| - Acessar o navegador <br> - Entrar no site (http://localhost:3000) <br> - Preencher as informações do formulário de cadastro <br> - Enviar o formulário |
 |Critério de Êxito | - O cadastro foi realizado com sucesso. |
 |  	|  	|
-| Caso de Teste 	| CT-02 – Efetuar login	|
+| Caso de Teste 	| CT-03 – Efetuar login	|
 |Requisito Associado | RF-001 	Permitir que o usuário acesse sua conta |
 | Objetivo do Teste 	| Verificar se o usuário consegue acessar uma conta. |
 | Passos 	| - Acessar o navegador <br> - Entrar no site (http://localhost:3000) <br> - Preencher as informações do formulário  de login <br> - Enviar o formulário |
 |Critério de Êxito | - O login foi realizado com sucesso. |
+|  	|  	|
+| Caso de Teste 	| CT-04 – Alugar livro	|
+|Requisito Associado | RF-004 	Permitir que o usuário alugue um livro disponível |
+| Objetivo do Teste 	| Verificar se o usuário consegue alugar um livro disponível. |
+| Passos 	| - Acessar o navegador <br> - Entrar no site (http://localhost:3000/books) <br> - Clicar em "Alugar" ao lado de algum livro |
+|Critério de Êxito | - Surge um pop-up confirmando o aluguel. |
+|  	|  	|
+| Caso de Teste 	| CT-05 – Cadastrar livro	|
+|Requisito Associado | RF-003 	Permitir que o usuário disponibilize um livro para aluguel |
+| Objetivo do Teste 	| Verificar se o usuário consegue cadastrar um livro para aluguel. |
+| Passos 	| - Acessar o navegador <br> - Entrar no site (http://localhost:3000/register-book) <br> - Preencher as informações do formulário <br> - Enviar o formulário |
+|Critério de Êxito | - O livro aparece nos livros disponíveis para aluguel. |

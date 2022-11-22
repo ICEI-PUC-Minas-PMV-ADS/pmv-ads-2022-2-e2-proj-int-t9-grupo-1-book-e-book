@@ -13,3 +13,8 @@ Funcionalidade em desenvolvimento.
 
 **CT-04 - Alugar livro**
 ![image](https://user-images.githubusercontent.com/103083123/200675181-88bbacc8-e278-48e3-9ff0-305a0f9e687a.png)
+
+**Caso de Teste 	CT-05 – Cadastrar livro**
+![image](https://user-images.githubusercontent.com/103083123/200680480-4f341da0-c4f4-4e09-8669-c5cae4ef6d5a.png)
+
+![image](https://user-images.githubusercontent.com/103083123/200680574-1f0d3343-3fa5-49d9-92c9-fa1cf2ed806c.png)

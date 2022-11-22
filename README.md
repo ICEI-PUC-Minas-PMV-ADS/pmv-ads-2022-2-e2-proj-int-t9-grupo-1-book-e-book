@@ -22,8 +22,20 @@ Plataforma de alugueis de livros para pessoas que querem uma nova utilidade para
 - Viviane Cristina Dias
 
 ## Instruções de utilização
+Pré-requisitos:
+- Node e npm instalados na máquina
+- PostgreSQL instalado na máquina
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Primeiro instale as dependências
+
+```
+npm install
+```
+
+após isso, rode o comando, **na raíz do projeto**:
+```
+npm run start-all
+```
 
 # Documentação
 

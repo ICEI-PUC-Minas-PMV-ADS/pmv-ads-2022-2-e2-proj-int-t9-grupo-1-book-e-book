@@ -5,6 +5,18 @@ export default async (database, retries = 5) => {
       console.log("Database connected");
       return;
     } catch (error) {
+      console.log(
+        "host",
+        process.env.DB_HOST,
+        "user",
+        process.env.DB_USER,
+        "db",
+        process.env.DB_DATABASE,
+        "pass",
+        process.env.DB_PASSWORD,
+        "port",
+        process.env.DB_PORT
+      );
       retries -= 1;
       console.log(`Error in database connection. Retries left: ${retries}`);
       console.log(error);

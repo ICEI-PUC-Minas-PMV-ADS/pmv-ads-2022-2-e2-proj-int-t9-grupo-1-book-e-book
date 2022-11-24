@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "start-all": "concurrently \"node -r dotenv/config . && node src/server.js\" \"npm run start-front\"",
+    "start-server": "node -r dotenv/config . && node src/server.js",
     "start-front": "cd src/frontend && npm i && npm run start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

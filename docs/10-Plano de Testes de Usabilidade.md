@@ -51,17 +51,17 @@ Quadro 14 - Roteiro das Tarefas
 
 | **Tarefa 2** | **Critério de Êxito** | **O que será avaliado** |
 |--------------|-----------------------|-------------------------|
-|Logar no sistema. | Conseguir realizar login no sistema | Concretização da tarefa. Quantidade e tipo de erros cometidos. |
+|Logar no sistema. | Conseguir realizar login no sistema. | Concretização da tarefa. Quantidade e tipo de erros cometidos. |
 
 
 | **Tarefa 3** | **Critério de Êxito** | **O que será avaliado** |
 |--------------|-----------------------|-------------------------|
-|Disponibilizar livro | Colocar um livro para alugar | Concretização da tarefa. Quantidade e tipo de erros cometidos. Tempo necessário para exibir o resultado da busca. |
+|Disponibilizar livro. | Colocar um livro para alugar. | Concretização da tarefa. Quantidade e tipo de erros cometidos. Tempo necessário para exibir o resultado da busca. |
 
 | **Tarefa 4** | **Critério de Êxito** | **O que será avaliado** |
 |--------------|-----------------------|-------------------------|
-|Alugar um livro | Escolher um livro e clicar em "alugar" | Concretização da tarefa. Quantidade e tipo de erros cometidos. Tempo necessário para exibir o resultado da busca. |
+|Alugar um livro. | Escolher um livro e clicar em "alugar". | Concretização da tarefa. Quantidade e tipo de erros cometidos. Tempo necessário para exibir o resultado da busca. |
 
 | **Tarefa 5** | **Critério de Êxito** | **O que será avaliado** |
 |--------------|-----------------------|-------------------------|
-|Pesquisar um livro | Pesquisar um livro por meio de filtragem | Concretização da tarefa. Quantidade e tipo de erros cometidos. Tempo necessário para exibir o resultado da busca. |
+|Pesquisar um livro. | Pesquisar um livro por meio de filtragem. | Concretização da tarefa. Quantidade e tipo de erros cometidos. Tempo necessário para exibir o resultado da busca. |

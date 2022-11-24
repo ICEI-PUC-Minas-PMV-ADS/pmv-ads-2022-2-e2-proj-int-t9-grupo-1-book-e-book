@@ -56,4 +56,12 @@ Quadro 14 - Roteiro das Tarefas
 
 | **Tarefa 3** | **Critério de Êxito** | **O que será avaliado** |
 |--------------|-----------------------|-------------------------|
+|Disponibilizar livro | Colocar um livro para alugar | Concretização da tarefa. Quantidade e tipo de erros cometidos. Tempo necessário para exibir o resultado da busca. |
+
+| **Tarefa 4** | **Critério de Êxito** | **O que será avaliado** |
+|--------------|-----------------------|-------------------------|
 |Alugar um livro | Escolher um livro e clicar em "alugar" | Concretização da tarefa. Quantidade e tipo de erros cometidos. Tempo necessário para exibir o resultado da busca. |
+
+| **Tarefa 5** | **Critério de Êxito** | **O que será avaliado** |
+|--------------|-----------------------|-------------------------|
+|Pesquisar um livro | Pesquisar um livro por meio de filtragem | Concretização da tarefa. Quantidade e tipo de erros cometidos. Tempo necessário para exibir o resultado da busca. |

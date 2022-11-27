@@ -9,7 +9,7 @@
 ### Erro ao Cadastrar
 ![Exemplo de Diagrama de Fluxo](img/Erro-cadastro-Patricia.jpeg)
 
-###Erro ao Pesquisar
+### Erro ao Pesquisar
 ![Exemplo de Diagrama de Fluxo](img/Erro-pesquisar.jpeg)
 
 

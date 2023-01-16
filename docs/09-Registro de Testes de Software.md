@@ -9,4 +9,12 @@
 ![image](https://user-images.githubusercontent.com/103083123/198889219-ff26673a-d090-4c61-8b47-68e9e96ae16c.png)
 
 **CT-03 – Efetuar login**
-Funcionalidade em desenvolvimento.
+![image](https://user-images.githubusercontent.com/103083123/203196374-3bc07664-26c0-4354-bf6b-8873a677da8c.png)
+
+**CT-04 - Alugar livro**
+![image](https://user-images.githubusercontent.com/103083123/200675181-88bbacc8-e278-48e3-9ff0-305a0f9e687a.png)
+
+**Caso de Teste 	CT-05 – Cadastrar livro**
+![image](https://user-images.githubusercontent.com/103083123/200680480-4f341da0-c4f4-4e09-8669-c5cae4ef6d5a.png)
+
+![image](https://user-images.githubusercontent.com/103083123/200680574-1f0d3343-3fa5-49d9-92c9-fa1cf2ed806c.png)
